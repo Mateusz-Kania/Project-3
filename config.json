@@ -1,0 +1,18 @@
+{
+  "languagesData": {
+    "languages": {
+      "pl": {
+        "url": "./ExampleConfig/pl.json"
+      }
+    },
+    "default": "pl"
+  },
+  "estimatesData": {
+    "estimates": {
+      "estimate1": {
+        "url": "./ExampleConfig/dataEstimate1.json"
+      }
+    },
+    "refresh": 30
+  }
+}

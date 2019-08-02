@@ -1,0 +1,12 @@
+{
+  "lang": {
+    "pl":{
+      "url": "./ExampleData/pl.json"
+    }
+  },
+  "estimates": {
+    "estimate1": {
+      "url": "./ExampleData/dataEstimate1.json"
+    }
+  }
+}

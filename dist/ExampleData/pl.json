@@ -1,0 +1,13 @@
+{
+    "chartsPage":{
+        "header": "Pomiary",
+        "text": "Jakiś tekst o pomiarach,urządzeniu itp.",
+        "estimatesTableHeader":"Tabela pomiarów:",
+        "estimatesCircularChartHeader":"Wykres kołowy"
+    },
+    "estimatesTable":{
+        "name": "Nazwa",
+        "rms": "RMS",
+        "angle":"Kąt"
+    }
+}
